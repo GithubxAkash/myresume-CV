@@ -8,7 +8,7 @@ const resume = {
     city: 'Pune',
     postalCode: '411039',
     country: 'India',
-    phone: '+91 787504301',
+    phone: '+91 7875043041',
     email: 'vishwakarmaxakash@gmail.com',
     education: [
         {
