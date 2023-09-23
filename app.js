@@ -86,7 +86,7 @@ const resume = {
         {
             jobTitle: 'BACHELOR COMPUTER SCIENCE',
             startDate: 'May 2021',
-            endDate: 'Present',
+            endDate: 'July 2023',
             employer: 'SINGHANIA UNIVERSITY',
             city: 'Rajasthan, INDIA',
             achievements: [
